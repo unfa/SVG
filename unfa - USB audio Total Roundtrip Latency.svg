@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1920px"
-   height="1080px"
-   viewBox="0 0 1920 1080"
+   width="613.06323"
+   height="1085.0417"
+   viewBox="0 0 613.06323 1085.0417"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="unfa - USB audio Total Roundtrip Latency.svg"
@@ -28,21 +28,25 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.64"
-     inkscape:cx="630.46875"
-     inkscape:cy="579.6875"
+     inkscape:cx="659.375"
+     inkscape:cy="331.25"
      inkscape:window-width="1920"
      inkscape:window-height="1003"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g308482"
+     inkscape:current-layer="layer1"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-center="true"
      inkscape:snap-global="false"
-     inkscape:snap-object-midpoints="true">
+     inkscape:snap-object-midpoints="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <sodipodi:guide
-       position="403.26319,-58.938833"
+       position="261.84386,-57.201937"
        orientation="0,-1"
        id="guide308366" />
   </sodipodi:namedview>
@@ -91,59 +95,59 @@
        scale_width="1"
        end_linecap_type="zerowidth" />
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow1Mend"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Mend"
        inkscape:isstock="true">
       <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path91372" />
     </marker>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow2Send"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow2Send"
        inkscape:isstock="true">
       <path
-         transform="scale(0.3) rotate(180) translate(-2.3,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
          id="path91396" />
     </marker>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="marker307479"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Send"
        inkscape:isstock="true">
       <path
-         transform="scale(0.2) rotate(180) translate(6,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path307477" />
     </marker>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow1Send"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Send"
        inkscape:isstock="true">
       <path
-         transform="scale(0.2) rotate(180) translate(6,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path91378" />
     </marker>
     <linearGradient
@@ -168,7 +172,7 @@
        y2="1112.2732"
        gradientUnits="userSpaceOnUse" />
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Invert"
        id="filter345886"
        x="-0.12572414"
@@ -189,13 +193,13 @@
          id="feGaussianBlur345906" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter355868"
-       x="-0.12490236"
-       y="-0.015336569"
-       width="1.2519291"
-       height="1.0336352">
+       x="-0.14117983"
+       y="-0.018419844"
+       width="1.2850058"
+       height="1.0398676">
       <feFlood
          flood-opacity="1"
          flood-color="rgb(255,255,255)"
@@ -221,8 +225,41 @@
          in="SourceGraphic"
          in2="offset"
          operator="over"
-         result="composite2"
+         result="fbSourceGraphic"
          id="feComposite355866" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix14269" />
+      <feFlood
+         id="feFlood14271"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite14273"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur14275"
+         in="composite1"
+         stdDeviation="1.3"
+         result="blur" />
+      <feOffset
+         id="feOffset14277"
+         dx="0.1"
+         dy="0.0666607"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite14279"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
     </filter>
     <linearGradient
        inkscape:collect="always"
@@ -237,7 +274,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-141.41932,3.3048537)">
     <g
        id="g271678"
        transform="translate(0,-252.11741)" />
@@ -251,7 +289,7 @@
            id="g348791"
            transform="matrix(0.6890537,0,0,0.6890537,-106.20841,462.44998)">
           <rect
-             style="fill:url(#linearGradient366804);stroke:none;stroke-width:1.13386;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;fill-opacity:1"
+             style="fill:url(#linearGradient366804);fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
              id="rect348781"
              width="489.7937"
              height="163.26457"
@@ -275,7 +313,7 @@
            id="g244168"
            transform="matrix(0.6890537,0,0,0.6890537,-106.20841,15.699392)">
           <rect
-             style="fill:#2aff80;stroke:none;stroke-width:1.13386;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;fill-opacity:1"
+             style="fill:#2aff80;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
              id="rect242309"
              width="636.63995"
              height="163.26457"
@@ -299,7 +337,7 @@
            id="g244176"
            transform="matrix(0.6890537,0,0,0.6890537,-106.20841,284.11832)">
           <rect
-             style="fill:#2aff80;stroke:none;stroke-width:1.13386;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;fill-opacity:1"
+             style="fill:#2aff80;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
              id="rect244170"
              width="489.7937"
              height="163.26457"
@@ -481,15 +519,18 @@
              sodipodi:nodetypes="cccc" />
           <text
              xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:32.5029px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:-2.98px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.812573"
+             style="font-style:normal;font-weight:normal;font-size:32.5029px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:-2.98px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.24337;stroke-miterlimit:4;stroke-dasharray:none"
              id="text308904"
              x="31.967964"
              y="0"><textPath
                xlink:href="#path309228"
-               id="textPath309686"><tspan
+               id="textPath309686"
+               style="stroke:none"><tspan
                  id="tspan308902"
-                 style="text-align:start;text-anchor:start;stroke-width:0.812573"
-                 dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 30">                   patch cable</tspan></textPath></text>
+                 style="text-align:start;text-anchor:start;stroke:none;stroke-width:2.24337;stroke-miterlimit:4;stroke-dasharray:none"
+                 dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 30">                  <tspan
+   style="stroke:none;stroke-width:2.24337;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+   id="tspan9633"> patch cable</tspan></tspan></textPath></text>
           <use
              x="0"
              y="0"
@@ -607,7 +648,7 @@
              x="575.52606"
              y="-173.01688"
              rx="3.0223379"
-             ry="0"
+             ry="3.0223379"
              inkscape:transform-center-y="-38.070939"
              inkscape:transform-center-x="-21.980321"
              transform="rotate(30)" />
@@ -786,7 +827,7 @@
              style="font-size:29.9116px;line-height:1.25;text-align:center;text-anchor:middle">(user space)</tspan></text>
         <g
            id="g390123"
-           transform="matrix(0.22105635,0,0,0.22105635,491.12339,-123.70099)"
+           transform="matrix(0.22105635,0,0,0.22105635,491.12339,-117.80353)"
            style="opacity:0.25;fill:#ffffff">
           <path
              style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.48674;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
